@@ -1,6 +1,9 @@
-# 👋 Hi there, I'm Bless! I'm a passionate **Front-End Developer** who loves building user-friendly, responsive, and visually appealing websites and web applications. I focus on creating smooth and clean interfaces that enhance user experience and functionality.
+# 👋 Hi there, I'm Bless!
+
+I'm a passionate **Front-End Developer** who loves building user-friendly, responsive, and visually appealing websites and web applications. I focus on creating smooth and clean interfaces that enhance user experience and functionality.
 
 ## 🚀 Tech Stack & Tools: 
+
 - 🌐 HTML, CSS, JavaScript
 - ⚛️ React.js
 - 🗄️ Oracle, MongoDB, SQL Server
@@ -26,11 +29,21 @@
 ## 📊 GitHub Stats:
 ![Bless's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blessebytes&show_icons=true&theme=radical)
 
-
 ## 🎮 Fun Facts & Interests:
 - I love gaming, especially strategy games.
 - I'm an avid reader and enjoy reading about technology and personal growth.
 - I’m also a huge fan of science fiction and enjoy watching movies and series in the genre.
+
+  
+## 🍜 Just Chilling with Code
+— just here to:
+
+- 🧊 Sip some iced black coffee
+- 🍜 Slurp a pack of noodles
+- 👨‍💻 Make cool projects
+- 🤝 Meet awesome dev friends
+
+Let’s connect and code together! 🚀
 
 
 
